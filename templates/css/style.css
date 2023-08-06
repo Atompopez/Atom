@@ -1,0 +1,18 @@
+.bi{
+    margin: 5px;
+}
+.padre{
+    margin: 2%;
+}
+.card-img-top{
+    height: 150px;
+}
+.card{
+    height: 350px;
+}
+.card:hover{
+    background-color: rgb(219, 219, 219);
+}
+.card-text{
+    height: 80px;
+}
